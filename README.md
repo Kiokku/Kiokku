@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     <a href="/">React</a> .
-    <a href="/">日本語</a> .
+    <a href="/">日本語</a>
   </samp>
 </p>
 
