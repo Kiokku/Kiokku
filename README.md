@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align="center">
+  <samp>
+    <a href="/">React</a> .
+    <a href="/">日本語</a> .
+  </samp>
+</p>
 
 <!--
 **Kiokku/Kiokku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
